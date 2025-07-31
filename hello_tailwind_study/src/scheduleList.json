@@ -1,7 +1,7 @@
 [
   {
     "date": 1,
-    "todos": [],
+    "todos": ["등산"],
     "isSat": false,
     "isHoliday": false
   },
@@ -85,7 +85,7 @@
   },
   {
     "date": 15,
-    "todos": [],
+    "todos": ["🇰🇷 광복절", "🧹 청소하기"],
     "isSat": false,
     "isHoliday": true
   },
@@ -181,7 +181,7 @@
   },
   {
     "date": 31,
-    "todos": [],
+    "todos": ["병원"],
     "isSat": false,
     "isHoliday": true
   }
